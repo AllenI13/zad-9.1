@@ -10,6 +10,7 @@ public class Test {
         System.out.println(car.isRent());
         System.out.println(car1.isRent());
         car.turnLeft();
+        car.turnLeft();
         System.out.println(car.getDirection());
         car1.goBackward();
         System.out.println(car1.getDirection());
